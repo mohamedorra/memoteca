@@ -1,0 +1,39 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Projeto Angular ",
+      "autoria": "Desenvolvedor",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "conteudo": "yabbaa",
+      "autoria": "agoooo",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 3
+    },
+    {
+      "conteudo": "Aprendendo Angular",
+      "autoria": "el3aaaan",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "l shabaab yagolooon ",
+      "autoria": "yabaaa",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "nil3ab bil maya",
+      "autoria": "fantasma ",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 6
+    }
+  ]
+}
