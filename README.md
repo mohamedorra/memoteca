@@ -1,6 +1,7 @@
 # Memoteca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+It´s a project for those who have a bad memory, a place where a user can conserve add, edit, remove, and even favorite the thoughts 
 
 ## Development server
 
